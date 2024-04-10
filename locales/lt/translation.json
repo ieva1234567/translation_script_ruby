@@ -1,0 +1,19 @@
+{
+  "recipes_filter": "Receptų filtras",
+  "phrase": "Frazė",
+  "included": "Yra",
+  "excluded": "Nėra",
+  "search": "Ieškoti",
+  "about": "Apie",
+  "about_paragraph": "Hipoalerginė dieta? Eliminacinė dieta? Negalite vartoti tam tikrų produktų? Alergija maistui ar maisto netoleravimas? Receptų filtras buvo sukurtas siekiant atsekti produktus kuriems organizmas yra alergiškas.",
+  "about_paragraph_1": "Receptų Filtras yra unikali internetinė svetainė, kuri leidžia jums rasti idealų receptą pagal jūsų pageidavimus! Su šia svetaine galite lengvai atrinkti norimus produktus, nurodyti produktus, kurių receptuose neturėtų būti, ir naudoti specifinę frazę.",
+  "about_paragraph_2": "Pavyzdžiui jeigu norite moliūgų sriubos be bulvių ties 'yra' pasirinkite moliūgus ties 'nėra' bulves 'frazėje' įveskite 'sriuba' ir spauskite 'ieškoti'.",
+  "about_paragraph_3": "Norite nufiltruoti' savo svetainę esančią šiame puslapyje? Susisiekite !",
+  "name": "Vardas",
+  "email": "El. paštas",
+  "message": "Žinutė",
+  "send": "Siųsti",
+  "message_sent": "Žinutė išsiųsta",
+  "Negali būti tuščias": "Negali būti tuščias",
+  "Netinkamas formatas": "Netinkamas formatas"
+}

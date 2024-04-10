@@ -1,0 +1,4 @@
+Style/Documentation:
+  Enabled: true
+Metrics/BlockLength:
+  AllowedMethods: ['describe']
