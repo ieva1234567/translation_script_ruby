@@ -15,3 +15,4 @@ CreateTranslations.new(class_params: { api_url: 'http://localhost:3000/api/v1/re
                                        lng: { prime: 'lt', to_trans: 'en' },
                                        files: { main: './locales/lt/translation.json',
                                                 for_translation: './locales/en/translation.json' } }).process
+                                                                                        

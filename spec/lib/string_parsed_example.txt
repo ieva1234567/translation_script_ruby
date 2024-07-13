@@ -1,0 +1,13 @@
+[
+  {"symb": "\n\n<div class=\"title\">", "text": "INGREDIENTAI:"},
+  {"symb": "</div>\n<div class=\"info\">\n</div>\n<div class=\"infoA\">\n<table border=\"0\" cellspacing=\"0\" cellpadding=\"0\" width=\"100%\">\n<tbody>\n<tr>\n<td valign=\"top\" width=\"128px\">\n<span class=\"ingredient\">\n",
+    "text": "200 g žalių paprikų, "},
+  {"symb": "<br>\n", "text": "100 g pomidorų, "},
+  {"symb": "<br>\n", "text": "10 g  raudonojo svogūno,"},
+  {"symb": "<br>\n", "text": "50 g salotų lapų"},
+  {"symb": "<br>\n", "text": "susmulkinti petražolių lapelių 2-3 šaukštai, "},
+  {"symb": "<br>\n", "text": "2 šaukštai aliejaus "},
+  {"symb": "<br>\n", "text": "ir vandens."},
+  {"symb": "<br>\n", "text": "ir vandens."},
+  {"symb": "\n</span>\n</td>\n</tr>\n</tbody>\n</table>\n<div id=\"la150x100_rek_lamaistas.lt\">\n<script data-adfscript=\"adx.adform.net/adx/?mid=489392\" parsed-adfscript=\"true\"></script><script src=\"//s1.adform.net/banners/scripts/adx.js\" async=\"\" defer></script>\n</div>\n</div>\n</div>"}
+]

@@ -58,7 +58,7 @@ class AddKeysToMainFile
     if prime_hash[formatted_key].present? || to_trans_hash[formatted_key].present?
       puts "#{formatted_key} already exists. Skipping ..."
     else
-      prime_hash[formatted_key] = translatable_hash[trans_key].gsub('"', '')
+      prime_hash[formatted_key] = translatable_hash[trans_key]#.gsub('"', '')
       add_key_to_trans_hash(formatted_key, translatable_hash[trans_key])
     end
   end
