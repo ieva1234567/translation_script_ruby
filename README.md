@@ -11,3 +11,4 @@ Back log:
 1. Leaving special symbols in translation values f.e.:'"'
 2. Leaving HTML stuff in strings "untouched"
 3. Creating translation files for "show" views with specified data from endpoint
+
